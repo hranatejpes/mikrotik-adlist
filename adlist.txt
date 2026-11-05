@@ -6924,12 +6924,6 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 www.google-analytics.com
 
-0.0.0.0 ads.google.com
-0.0.0.0 adservice.google.com
-0.0.0.0 s0-2mdn-net.l.google.com
-
-0.0.0.0 googleadservices.com
-0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 www.googleadservices.com
 
 0.0.0.0 static.googleadsserving.cn
